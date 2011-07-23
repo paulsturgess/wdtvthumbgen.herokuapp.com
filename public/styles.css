@@ -1,0 +1,9 @@
+body{margin:0;font: 1em Arial,Helvetica,sans-serif; color: #000;}
+#container{ padding-top:20px; width:450px; margin:0 auto 0; overflow:hidden; padding:20px; text-align:center;}
+h1{color:#000; font-size:2em; margin:0 0 20px;}
+h2{margin-bottom:10px;}
+a, a:link, a:visited{color:#000;}
+a:hover{color:#FFF;background:#000; text-decoration:none;}
+#intro{font-style:italic; margin-bottom:10px;}
+form{ padding: 10px;}
+#image_url{width:180px; height:2em;}

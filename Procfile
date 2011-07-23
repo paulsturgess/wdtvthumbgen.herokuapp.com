@@ -1,0 +1,1 @@
+web: bundle exec ruby wdtv_thumb_gen.rb -p $PORT
