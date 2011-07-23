@@ -1,1 +1,1 @@
-A simple <a href="http://www.sinatrarb.com">Sinatra</a> app that processes thumbnails using the <a href="https://github.com/probablycorey/mini_magick">mini_magick</a> gem.
+A simple [Sinatra](http://www.sinatrarb.com) app that processes thumbnails using the [mini_magick](https://github.com/probablycorey/mini_magick) gem.
